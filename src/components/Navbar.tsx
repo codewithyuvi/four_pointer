@@ -44,7 +44,7 @@ export default function Navbar() {
     toast({ title: "Check-In Successful ✅" });
   } catch (err) {
     console.error(err);
-    toast({ title: "Check-In Failed", description: String(err) });
+    // toast({ title: "Check-In Failed", description: String(err) });
   }
 };
 
