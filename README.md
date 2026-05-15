@@ -34,7 +34,7 @@ VATTEND solves these problems by recording attendance proofs on the Algorand blo
 
 ## 🌐 Live Demo
 
-Live Demo URL: https://four-pointer.vercel.app
+Live Demo URL: https://attendence-tracker-with-blockchain.vercel.app/
 
 ---
 
